@@ -114,5 +114,5 @@ Form with Dropdown:
  This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Deployed url
-https://dynamic-form-generator-p25yp4d7v-sravanis-projects-cf279218.vercel.appS
+https://react-form-generator-h3sc8qp6b-sravanis-projects-cf279218.vercel.app/
 
